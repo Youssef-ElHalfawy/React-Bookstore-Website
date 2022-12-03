@@ -1,0 +1,15 @@
+.truncate {
+    display: inline-block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.oneCard{
+    transition: all 0.5s ease-in-out;
+}
+.oneCard:hover{
+    transform: scale(1.05);
+    z-index: 33;
+}

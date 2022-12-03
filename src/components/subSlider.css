@@ -1,0 +1,12 @@
+.star-product-image {
+	background: url("../../public/assets/download (1).jfif");
+	width: 100%;
+	background-size: cover;
+	height: 60vh;
+}
+.star-product-content {
+	height: 60vh;
+}
+.star-product-content .section-subtitle {
+	line-height: 1.6rem;
+}
